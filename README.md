@@ -2,6 +2,7 @@
 - 👀 I’m interested in making games with Unreal Engine 5
 - 🌱 I’m currently learning c++
 - 📫 gokdenizakbuga.com or gokdenizakino@gmail.com
+- 
 ![](https://komarev.com/ghpvc/?username=codedeniz)
 
 
