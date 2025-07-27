@@ -1,4 +1,6 @@
 - 👋 Hi, I’m @codedeniz
+- The creater of Speaks
+- https://speaks.gokdenizakbuga.com
 - 👀 I’m interested in making games with Unreal Engine 5
 - 🌱 I’m currently learning c++
 - 📫 gokdenizakbuga.com or gokdenizakino@gmail.com
