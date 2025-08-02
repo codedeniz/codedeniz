@@ -1,12 +1,23 @@
-- 👋 Hi, I’m @codedeniz
-- The creator of Speaks
-- https://speaks.gokdenizakbuga.com
-- 👀 I’m interested in making games with Unreal Engine 5
-- 🌱 I’m currently learning c++
-- 📫 gokdenizakbuga.com or gokdenizakino@gmail.com
-- 
-![](https://komarev.com/ghpvc/?username=codedeniz)
+# 👋 Hi there, I’m Gokdeniz (@codedeniz)
 
+I'm the creator of [**Speaks**]((https://speaks.chat)) – a voice-first chat platform.
+
+### 🚀 About Me
+- 💻 Passionate about building full-stack web apps with **React.js** and **Node.js**
+- 🌍 Based in Canada
+
+### 📫 Get in Touch
+- 🌐 Website: [gokdenizakbuga.com](https://gokdenizakbuga.com)
+- 📧 Email: gokdenizakino@gmail.com
+
+---
+
+### 🔧 Projects
+- 🗣️ [**Speaks**](https://speaks.chat): Voice & video chat with privacy in mind
+
+---
+
+![Profile Views](https://komarev.com/ghpvc/?username=codedeniz)
 
 <!---
 codedeniz/codedeniz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
